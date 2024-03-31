@@ -1,5 +1,5 @@
 // Write a Java Program to Print the Fibonacci Sequence of upto n Terms.
-// Date : 20/12/2023, Author : Yash Wadhvani
+// Date : 20/12/2023, Author : Naman Saraf
 
 import java.util.*;
 
