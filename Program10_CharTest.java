@@ -1,5 +1,5 @@
 // Write a Java Program that requires the user to enter a single character from the Alphabet. Print Vowel or Consonant, depending on user input. If the user input is not a letter (between a and z or A and Z), or is a String of Length > 1, print an error message.
-// Date : 27/12/2023, Author : Yash Wadhvani
+// Date : 27/12/2023, Author : Naman Saraf
 
 import java.util.Scanner;
 
