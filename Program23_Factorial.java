@@ -1,6 +1,5 @@
 // Write a java program to find the factorial of a number entered by the user.
-// Date : 13/03/2024, Author : Yash Wadhvani
-
+// Date : 13/03/2024, Author : Naman Saraf
 import java.util.Scanner;
 
 public class Program23_Factorial {
