@@ -1,6 +1,5 @@
 // Design a class hierarchy for a shape. Create a base class Shape with methods area() and perimeter(). Derive classes Circle, Rectangle, and Triangle from Shape. Implement the necessary methods in each derived class. Create objects of each class and calculate the area and perimeter for each.
-// Date : 10/01/2024, Author : Yash Wadhvani
-
+// Date : 10/01/2024, Author : Naman Saraf
 class Shape {
     double area() {
         return 0.0d;
