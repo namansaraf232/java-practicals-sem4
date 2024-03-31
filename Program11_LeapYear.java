@@ -1,5 +1,5 @@
 // Write a Java program that takes a year from the user and prints whether it is a leap year or not.
-// Date : 27/12/2023, Author : Yash Wadhvani
+// Date : 27/12/2023, Author : Naman Saraf
 
 import java.util.Scanner;
 
