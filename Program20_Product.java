@@ -1,6 +1,5 @@
 // Develop a simple online shopping system. Create a base class Product with attributes productId, productName, and price. Derive classes Electronics, Clothing, and Books from Product. Add specific attributes for each product type. Create objects for each class and demonstrate polymorphism by displaying product details.
-// Date : 11/01/2024, Author : Yash Wadhvani
-
+// Date : 11/01/2024, Author : Naman Saraf
 class Product {
     int productID;
     String productName;
