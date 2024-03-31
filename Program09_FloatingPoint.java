@@ -1,5 +1,5 @@
 // Write a Java program that reads two floating-point numbers and tests whether they are the same up to three decimal places.
-// Date : 27/12/2023, Author : Yash Wadhvani
+// Date : 27/12/2023, Author : Naman Saraf
 
 import java.util.Scanner;
 
