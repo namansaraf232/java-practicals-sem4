@@ -1,5 +1,5 @@
 // Write a Java Program to check whether the entered Number is Odd or Even.
-// Date : 20/12/2023, Author : Yash Wadhvani
+// Date : 20/12/2023, Author : Naman Saraf
 
 import java.util.*;
 
