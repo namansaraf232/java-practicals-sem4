@@ -1,5 +1,5 @@
 // Write a Java program to display the multiplication table of a given integer.
-// Date : 28/12/2023, Author : Yash Wadhvani
+// Date : 28/12/2023, Author : Naman Saraf
 
 import java.util.Scanner;
 
