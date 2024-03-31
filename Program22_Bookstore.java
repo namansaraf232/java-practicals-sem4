@@ -9,7 +9,7 @@
         Sample Class: Customer - Represents a customer with attributes like name, contact details, and purchase history.
     (A Folder Named 'bookstore' which contains 3 folders - 'core', 'inventory' & 'users'. 'core' contains definition of 'Book' Class. 'inventory' contains definition of 'InventoryManager' Class. 'users' contains definition of 'Customer' Class.) */
 
-// Date : 13/03/2024, Author : Yash Wadhvani
+// Date : 13/03/2024, Author :Naman Saraf
 
 import bookstore.*;
 
