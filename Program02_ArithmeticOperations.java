@@ -1,6 +1,5 @@
 // Write a Java Program to perform Arithmetic Operations such as +,-,/,* on 2 entered Numbers.
-// Date : 20/12/2023, Author : Yash Wadhvani
-
+// Date : 20/12/2023, Author : Naman Saraf
 import java.util.*;
 
 public class Program02_ArithmeticOperations {
